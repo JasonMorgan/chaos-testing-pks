@@ -1,8 +1,4 @@
 #!/bin/bash
-# With Gremlin Access
-
-## Run an attack to eliminate all nodes in an AZ
-
 # With console access
 
 ## AWS CLI commands
