@@ -6,6 +6,7 @@
 if [ -z "$1" ]
 then
       echo "Add an AZ, us-east1a || us-east1b || us-east1c"
+      exit 0
 fi
 AZ="$1"
 
